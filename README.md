@@ -14,10 +14,8 @@
 
 ---
 
-### 📌 Featured Projects
-Here are some of my pinned projects:  
-- [Gesture Volume Control](https://github.com/MUKUL-TIWARI/gesture-volume-control) 🎶  
-  - Built with my friend *Vivek Upadhyay* 
+### 📌 Projects
+Projects will be added soon.
 
 ---
 
