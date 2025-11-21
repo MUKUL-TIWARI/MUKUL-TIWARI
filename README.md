@@ -1,32 +1,71 @@
-# Hi there 👋, I'm Mukul Tiwari  
+<h2 align="center">Hi there 👋, I'm <strong>Mukul Tiwari</strong></h2>
 
-🎓 3rd Year **B.Tech Student in AI & ML**  
-💻 Passionate about **Artificial Intelligence, Machine Learning, Data Analysis** 
-🌱 Currently learning **Artificial Intelligence, DBMS, Data Analysis**
-🚀 Building projects in **AI, ML**
-
----
-
-### 🛠 Tech Stack
-- **Languages**: Python, C, SQL  
-- **Tools**: Git, GitHub, MySQL, Excel, Power BI  
-- **Interests**: Data Analysis, AI/ML Projects  
+<p align="center">
+  <strong>AI/ML Student | Agent Building | Machine Learning | Gen AI earner</strong><br>
+  Passionate about building real-world AI systems, NLP models, and ML applications.
+</p>
 
 ---
 
-### 📌 Projects
-Projects will be added soon.
+## 🚀 About Me
+
+- 🎓 *3rd Year B.Tech Student (AI & ML)*
+- 🤖 Interested in *Agent Building, NLP, Machine Learning, and Applied AI*
+- 🛡 Exploring *Cybersecurity + AI Security Systems*
+- 🧠 Strong focus on *projects that solve real-world problems*
+- 💼 Actively improving my *DSA, ML modeling, and agent workflows*
+- 📚 Currently learning *AI Agents, LLM fine-tuning, and advanced Python*
 
 ---
 
-### 📊 GitHub Stats
-![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUKUL-TIWARI&show_icons=true&theme=tokyonight)  
+## 🛠 Tech Stack
+
+### 💻 *Languages*
+- Python, C, SQL
+
+### ⚒ *Tools & Frameworks*
+- NumPy, Pandas, Matplotlib & Seaborn, Scikit-Learn  
+- Google Colab  
+- Power BI  
+
+### 🧠 *AI/ML Areas*
+- Agent Building  
+- NLP  
+- ML Modeling  
+- Data Analysis  
 
 ---
 
-### 📫 Connect With Me
-[![Email](https://img.shields.io/badge/Email-mukultiwari2003@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mukultiwari2003@gmail.com)  
+## 🔥 Featured Project
+
+### 🔐 *CyberShield – AI Security Detection Suite*
+A complete AI-powered security suite that detects:
+
+- 🕵 *Phishing URLs* (ML-based URL classification)  
+- 📧 *Phishing Emails* (NLP text analysis)  
+- 📞 *Vishing / Scam Calls* (transcript ML modeling)  
+- 🎨 Modern UI built using *HTML + TailwindCSS*  
+- ⚙ Flask backend with REST APIs  
+- 📊 Trained on custom-built datasets  
+
+🔗 *GitHub Repository:*  
+https://github.com/MUKUL-TIWARI/CyberShield-Security-Suite
 
 ---
 
-⚡ Fun fact: I believe in learning by building projects and sharing knowledge with others!
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUKUL-TIWARI&show_icons=true&theme=tokyonight" height="165">
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 Email: *mukul.tiwari2003@gmail.com*  
+   
+
+---
+
+<p align="center">⭐ If you like my work, feel free to star my repositories!</p>
