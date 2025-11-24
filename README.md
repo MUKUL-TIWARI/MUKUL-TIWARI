@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm <strong>Mukul Tiwari</strong></h2>
 
 <p align="center">
-  <strong>AI/ML Student | Agent Building | Machine Learning | Gen AI earner</strong><br>
+  <strong>AI/ML Student | Agent Building | Machine Learning | Gen AI Learner</strong><br>
   Passionate about building real-world AI systems, NLP models, and ML applications.
 </p>
 
