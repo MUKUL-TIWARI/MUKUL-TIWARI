@@ -14,4 +14,4 @@ My primary focus areas:
 I actively work on projects to strengthen my practical skills and continuously improve my ability to design, build, and deploy AI-based systems.
 
 Email: mukultiwari2003@gmail.com  
-GitHub: https://github.com/MUKUL-TIWARI
+Linkedin: www.linkedin.com/in/18-mukul-tiwari
