@@ -1,6 +1,6 @@
 Hi, I'm Mukul Tiwari
 
-Artificial Intelligence & Machine Learning Student | Python Developer | GenAI Learner
+Artificial Intelligence & Machine Learning Student
 
 I am a 3rd year B.Tech student specializing in AI & ML with a strong interest in building real-world machine learning and artificial intelligence applications.
 
