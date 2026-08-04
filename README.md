@@ -8,8 +8,7 @@ My primary focus areas:
 - Machine Learning & Applied AI
 - GenAI & AI Agents (Learning Phase)
 - Python Development & Automation
-- NLP Projects
-- Data Structures & Algorithm Practice
+- FastAPI, Flask (Backend for my AI projects)
 
 I actively work on projects to strengthen my practical skills and continuously improve my ability to design, build, and deploy AI-based systems.
 
